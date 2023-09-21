@@ -9,7 +9,9 @@ header {
     color: white;
     text-align: center;
 }
-
+select {
+    margin: 5px;
+}
 section {
     background: white;
     border-radius: 10px;
